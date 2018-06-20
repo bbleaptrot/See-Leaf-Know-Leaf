@@ -1,0 +1,77 @@
+{
+  "leaf_image": "http://api.leafsnap.com/v1/species/Ulmus%20hollandica/images/LTV-DJAL-6037_COPIA_crop.jpg?crop=42,227,1019,1205&h=150&w=150",
+  "flower": "http://api.leafsnap.com/v1/species/Ulmus%20hollandica/images/FFTV-BAM-5364_crop.jpg?crop=280,295,852,867&h=150&w=150",
+  "fruit": "http://api.leafsnap.com/v1/species/Ulmus%20hollandica/images/FV-DJAL-6028_crop.jpg?crop=0,120,1026,1148&h=150&w=150",
+  "common_name": "Dutch Elm",
+  "scientific_name": "Ulmus hollandica",
+  "habitat": "Planted as an ornamental, but susceptible to Dutch Elm Disease.",
+  "growth_habit": "Deciduous tree, growing up to 30 m tall.",
+  "bloom_time": "Early spring.",
+  "images": [
+    {
+      "href": "http://api.leafsnap.com/v1/species/Ulmus%20hollandica/images/LTV-DJAL-6037.jpg",
+      "title": "Leaf of the Dutch Elm",
+      "class": "walb"
+    },
+    {
+      "href": "http://api.leafsnap.com/v1/species/Ulmus%20hollandica/images/LUV-DJAL-6040.jpg",
+      "title": "Leaf of the Dutch Elm",
+      "class": "walb"
+    },
+    {
+      "href": "http://api.leafsnap.com/v1/species/Ulmus%20hollandica/images/LTV-DJAL-6037_COPIA.jpg",
+      "title": "Leaf of the Dutch Elm",
+      "class": "walb"
+    },
+    {
+      "href": "http://api.leafsnap.com/v1/species/Ulmus%20hollandica/images/GVP-DJAL-6019.jpg",
+      "title": "Leaves of the Dutch Elm",
+      "class": "walb"
+    },
+    {
+      "href": "http://api.leafsnap.com/v1/species/Ulmus%20hollandica/images/FFTV-BAM-5364.jpg",
+      "title": "Flower of the Dutch Elm",
+      "class": "walb"
+    },
+    {
+      "href": "http://api.leafsnap.com/v1/species/Ulmus%20hollandica/images/FFFV-BAM-5363.jpg",
+      "title": "Flower of the Dutch Elm",
+      "class": "walb"
+    },
+    {
+      "href": "http://api.leafsnap.com/v1/species/Ulmus%20hollandica/images/IFHV-GFVM-2398.jpg",
+      "title": "Flowers of the Dutch Elm",
+      "class": "walb"
+    },
+    {
+      "href": "http://api.leafsnap.com/v1/species/Ulmus%20hollandica/images/SAFV-DJAL-6032.jpg",
+      "title": "Fruit of the Dutch Elm",
+      "class": "walb"
+    },
+    {
+      "href": "http://api.leafsnap.com/v1/species/Ulmus%20hollandica/images/FV-DJAL-6028.jpg",
+      "title": "Fruit of the Dutch Elm",
+      "class": "walb"
+    },
+    {
+      "href": "http://api.leafsnap.com/v1/species/Ulmus%20hollandica/images/IFRVH-DJAL-6025.jpg",
+      "title": "Fruits of the Dutch Elm",
+      "class": "walb"
+    },
+    {
+      "href": "http://api.leafsnap.com/v1/species/Ulmus%20hollandica/images/SV-DJAL-6035.jpg",
+      "title": "Seed of the Dutch Elm",
+      "class": "walb"
+    },
+    {
+      "href": "http://api.leafsnap.com/v1/species/Ulmus%20hollandica/images/PH-DJAL-6022-COPIE.jpg",
+      "title": "Petiole of the Dutch Elm",
+      "class": "walb"
+    },
+    {
+      "href": "http://api.leafsnap.com/v1/species/Ulmus%20hollandica/images/B15V-BAM-4178.jpg",
+      "title": "Bark of the Dutch Elm",
+      "class": "walb"
+    }
+  ]
+}

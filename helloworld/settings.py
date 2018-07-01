@@ -11,12 +11,15 @@ MANAGERS = ADMINS
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3', # Add 'postgresql_psycopg2', 'postgresql', 'mysql', 'sqlite3' or 'oracle'.
-        'NAME': 'helloworld.db',                      # Or path to database file if using sqlite3.
-        'USER': '',                      # Not used with sqlite3.
-        'PASSWORD': '',                  # Not used with sqlite3.
-        'HOST': '',                      # Set to empty string for localhost. Not used with sqlite3.
-        'PORT': '',                      # Set to empty string for default. Not used with sqlite3.
+        'ENGINE': 'django.db.backends.postgresql_psycopg2', # Add 'postgresql_psycopg2', 'postgresql', 'mysql', 'sqlite3' or 'oracle'.
+        'NAME': 'd3hhn64u4m4d59',                      # Or path to database file if using sqlite3.
+        'USER': 'vumoekaavwicyn',                      # Not used with sqlite3.
+        'PASSWORD': '5fdb1b814cae1a3d3529d6b4b3a57ce2d2371552f087daa79cf4574d24b03967',                  # Not used with sqlite3.
+        'HOST': 'ec2-50-19-86-139.compute-1.amazonaws.com',                      # Set to empty string for localhost. Not used with sqlite3.
+        'PORT': '5432',
+        'OPTIONS': {
+            'sslmode': 'require',
+        }
     }
 }
 
@@ -93,7 +96,7 @@ SECRET_KEY = '0h@p1(0e%*b9r4k+dnpc+7s18lpap6+=cu^#^d=hll+38zv_)r'
 TEMPLATE_LOADERS = (
     'django.template.loaders.filesystem.Loader',
     'django.template.loaders.app_directories.Loader',
-#     'django.template.loaders.eggs.Loader',
+    'django.template.loaders.eggs.Loader',
 )
 
 MIDDLEWARE_CLASSES = (
@@ -114,6 +117,7 @@ TEMPLATE_DIRS = (
 )
 
 INSTALLED_APPS = (
+    'helloworld',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
